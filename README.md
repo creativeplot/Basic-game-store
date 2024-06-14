@@ -1,5 +1,5 @@
 # **Basic Game Store**
-## This is a basic game store with a cart functionaly and some user account functionalities as well.
+## This is a basic game store with cart and user account functionalities.
 ### Description
 welcome to my project, this project was developed to give me a better understanding of OOP, so there are some crud code here.
 This project allows users to put items in a cart buy these items from the cart, and doing so, adding them to the user account that has a mark as favorite and refund function.
