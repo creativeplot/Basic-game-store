@@ -7,7 +7,7 @@ This project allows users to put items in a cart buy these items from the cart, 
 - **Random discounts:** Every time you reload the main page some games will get a random discount
 - **Game interaction:** When you add a game to the cart or have it in your account this game will not be abble to
   get put in the cart again, until you refund, cancel the purchase or reset the page
-- **Reset button:** it_will_reset_all_your_actions.
+- **Reset_button:**_it_will_reset_all_your_actions.
 - **Cancel purchase:** Take the items out of the cart
 - **Finish purchase:** Add games to your account, and deduct their total price of your wallet cash
 - **Mark as favorie:** Change some colors in the game container
